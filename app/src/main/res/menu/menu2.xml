@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--<item-->
+    <!--android:id="@+id/action_menu"-->
+    <!--android:title="Menu"-->
+    <!--app:showAsAction="never"/>-->
+
+    <!--<item-->
+        <!--android:id="@+id/action_map"-->
+        <!--android:title="Map"-->
+        <!--app:showAsAction="never"/>-->
+
+    <!--<item-->
+        <!--android:id="@+id/action_save"-->
+        <!--android:title="Save"-->
+        <!--app:showAsAction="always"/>-->
+    <item
+        android:id="@+id/action_likes"
+        android:title="My Munchies!"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_tweet"
+        android:title="Add a tweet"
+        app:showAsAction="never"/>
+
+</menu>

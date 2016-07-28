@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "346728066277",
+    "firebase_url": "https://yelptwitter-830df.firebaseio.com",
+    "project_id": "yelptwitter-830df",
+    "storage_bucket": "yelptwitter-830df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346728066277:android:9711fd8e610425f9",
+        "android_client_info": {
+          "package_name": "ly.generalassemb.yelptwitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346728066277-d5q9hal4uq3galr27u8bkr7674vqt70h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDji4wGxrgaBKkvd8shIrGZ2JsMDzNga3Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
